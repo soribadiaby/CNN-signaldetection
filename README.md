@@ -1,1 +1,1 @@
-# CNN_signaldetection
+# Signal detection project
