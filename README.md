@@ -1,6 +1,7 @@
 # Signal detection project
-Goal of the project : developping a system capable of classification, localization and detection of
-radiocommunication signals on spectrograms
+Tasks : developping a system capable of classification, localization and detection of
+radiocommunication signals on spectrograms. <a href='https://sergioskar.github.io/Localization_and_Object_Detection/'>Here</a> is a good explanation of the difference between all these tasks.
+
 ## Method
 OverFeat <a href="https://arxiv.org/pdf/1312.6229.pdf">paper</a>
 
