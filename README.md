@@ -8,3 +8,6 @@ Overfeat <a href="https://arxiv.org/pdf/1312.6229.pdf">paper</a>
 ## Regression network
 
 ## HMI
+
+The Human Machine Interface allows to select a spectrogram in the file system and can display the detected and localized signals with
+bounding boxes and indicating the class of the selected spectrogram
