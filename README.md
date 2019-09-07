@@ -6,7 +6,7 @@ Overfeat <a href="https://arxiv.org/pdf/1312.6229.pdf">paper</a>
 
 ## Classification network
 <p>
-The classification network consists of two parts: a first called <p>feature extractor</p> and a second one that classifies.</p>
+The classification network consists of two parts: a first called <b>feature extractor</b> and a second one that classifies.</p>
  <p align="center"><img src="img/classifier.PNG" height=250 width=500></img></p>
  <p>
  <ul><li>the feature extractor is composed of a series of 3 convolution layers (the first two are followed by a max pooling layer)
@@ -26,7 +26,7 @@ to train network and avoid the phenomenon of overfitting.
 ## Regression network
 <p>The regression network is the one in charge of locating and detecting signals.
 In fact, is is composed of several regressor networks (one for each
-class), each locate their signals in the image: they are called <p>class-specific</p> regressors in the paper</p>
+class), each locate their signals in the image: they are called <b>class-specific</b> regressors in the paper</p>
 <p align="center"><img src="img/regressor.PNG" height=250 width=450></img></p>
 <p>
 Each regressor has 4 outputs, which correspond to to the coordinates of the predicted bounding box. As this network takes the
