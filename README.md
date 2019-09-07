@@ -20,7 +20,7 @@ connected) have a dropout of 40 percent. This eliminates weights
 randomly during training, which reduces the number of parameters to
 to train network and avoid the phenomenon of overfitting.
 </p>
-<p align="center"><img src="img/classifier.PNG" height=250 width=450></img></p>
+<p align="center"><img src="img/classifier.PNG" height=250 width=500></img></p>
 
 ## Regression network
 <p align="center"><img src="img/regressor.PNG" height=200 width=400></img></p>
