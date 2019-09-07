@@ -4,11 +4,11 @@ radiocommunication signals on spectrograms
 ## Method
 Overfeat <a href="https://arxiv.org/pdf/1312.6229.pdf">paper</a>
 ## Classification network
-<img src = 'img/classifier.png'></img>
+<img src = 'img\classifier.png'></img>
 ## Regression network
-<img src = 'img/regressor.png'></img>
+<img src = 'img\regressor.png'></img>
 ## HMI
 
 The human-machine interface allows to select a spectrogram in the file system and can display the detected and localized signals with
 bounding boxes and indicating the class of the selected spectrogram
-<img src = 'img/hmi.png'></img>
+<img src = 'img\hmi.png'></img>
