@@ -43,6 +43,7 @@ Each part of the image has, therefore, an associated box. We note that the layer
 are locally connected layers and not dense. In addition, the activations of all layers are linear, this is due to the fact that
 the network is a regressor and not a classifier.
 </p>
+
 ## HMI
 
 <p>The human-machine interface allows to select a spectrogram in the file system and can display the detected and localized signals with
