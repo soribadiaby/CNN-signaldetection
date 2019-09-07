@@ -6,7 +6,9 @@ Overfeat <a href="https://arxiv.org/pdf/1312.6229.pdf">paper</a>
 
 ## Classification network
 <p>
-The classification network consists of two parts: a first called feature extractor and a second one that classifies.
+The classification network consists of two parts: a first called feature extractor and a second one that classifies.</p>
+ <p align="center"><img src="img/classifier.PNG" height=250 width=500></img></p>
+ <p>
  <ul><li>the feature extractor is composed of a series of 3 convolution layers (the first two are followed by a max pooling layer)
 <li>the last part of the classifier consist of fully connected layers that generate a vector of 12 components (the number of classes).
 </ul> 
@@ -20,7 +22,6 @@ connected) have a dropout of 40 percent. This eliminates weights
 randomly during training, which reduces the number of parameters to
 to train network and avoid the phenomenon of overfitting.
 </p>
-<p align="center"><img src="img/classifier.PNG" height=250 width=500></img></p>
 
 ## Regression network
 <p align="center"><img src="img/regressor.PNG" height=200 width=400></img></p>
