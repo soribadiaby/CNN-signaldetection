@@ -3,11 +3,11 @@ Goal of the project : Developping a system capable of classification, localizati
 radiocommunication signals on spectrograms
 ## Method
 Overfeat <a href="https://arxiv.org/pdf/1312.6229.pdf">paper</a>
-## Classifier network
+## Classification network
 
 ## Regression network
 
 ## HMI
 
-The Human Machine Interface allows to select a spectrogram in the file system and can display the detected and localized signals with
+The human-machine interface allows to select a spectrogram in the file system and can display the detected and localized signals with
 bounding boxes and indicating the class of the selected spectrogram
