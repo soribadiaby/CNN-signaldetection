@@ -4,7 +4,7 @@ radiocommunication signals on spectrograms
 ## Method
 Overfeat <a href="https://arxiv.org/pdf/1312.6229.pdf">paper</a>
 ## Classification network
-<img src = 'img\classifier.png'></img>
+<p align="center"><img src="img/classifier.png" style></img></p>
 ## Regression network
 <img src = 'img\regressor.png'></img>
 ## HMI
