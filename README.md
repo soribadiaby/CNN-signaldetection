@@ -47,6 +47,7 @@ the network is a regressor and not a classifier.
 
 ## HMI
 
+<p>The GUI was developped using the <a href="https://docs.python.org/3/library/tk.html">tkinter</a> package</p>
 <p>The human-machine interface allows to select a spectrogram in the file system and can display the detected and localized signals with
 bounding boxes and indicating the class of the selected spectrogram</p>
 <p align="center"><img src="img/hmi.PNG" height=300 width=400></img></p>
