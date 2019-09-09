@@ -15,7 +15,7 @@ The classification network consists of two parts: a first called <b>feature extr
 </ul> 
 </p>
 <p>
-The output of all layers(except the last one) is normalized using the batch normalization technique (in order to
+The output of all layers (except the last one) is normalized using the batch normalization technique (in order to
 increase the stability of the neural network during training)
 </p>
 <p>In addition, layers 4 and 5 (fully
