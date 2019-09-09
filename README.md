@@ -3,7 +3,7 @@ Tasks : developping a system capable of classification, localization and detecti
 radiocommunication signals on spectrograms. <a href='https://sergioskar.github.io/Localization_and_Object_Detection/'>Here</a> is a good explanation of the difference between all these tasks.
 
 ## Method
-the method is from the research paper : <a href="https://arxiv.org/pdf/1312.6229.pdf">"OverFeat:Integrated Recognition, Localization and Detection using Convolutional Networks"</a>
+The method is from the research paper : <a href="https://arxiv.org/pdf/1312.6229.pdf">"OverFeat : Integrated Recognition, Localization and Detection using Convolutional Networks"</a>
 
 ## Classification network
 <p>
